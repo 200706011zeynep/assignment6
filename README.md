@@ -1,30 +1,14 @@
-Entering the app
-
-
-
-![image](https://user-images.githubusercontent.com/79792720/160788199-6d77005f-97d9-4efb-aed6-c0d218ffc225.png)
-
-
-Click to add image button
-
-
-
-![image](https://user-images.githubusercontent.com/79792720/160787454-7487ce6b-d9a5-4ec1-8716-d5709cfa29f1.png)
-
-
-Click to go to the next page
-
-
-
-![image](https://user-images.githubusercontent.com/79792720/160788875-edea4725-b7f9-4304-842f-a3a74e02350f.png)
-
-
-Click to go previous page
+![image](https://user-images.githubusercontent.com/79792720/161938346-d875898c-f5c4-4df9-bac8-a0a1261ad06b.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/79792720/160787535-cf6523e7-960e-4b19-851f-94b9ebcfa209.png)
- 
 
-Open menu and click
+![image](https://user-images.githubusercontent.com/79792720/161938426-353938b8-ce30-401d-b74f-79812c3387ea.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/79792720/161938479-1415ef6c-bac0-40cc-b9b4-205b5710712f.png)
